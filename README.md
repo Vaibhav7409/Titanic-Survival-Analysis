@@ -1,9 +1,8 @@
 # 🚢 Titanic Survival Analysis Dashboard
 
-![Dashboard](https://github.com/Vaibhav7409/Titanic-Survival-Analysis
-/blob/main/dashboard_screenshot.png)
+**Live Dashboard** 🔗: [View on Tableau Public](https://public.tableau.com/app/profile/vaibhav.singh7939/viz/TitanicAnalysis_17498068169850/Dashboard1?publish=yes)
 
-**Live Dashboard** 🔗: [View on Tableau Public]([Click here)](https://public.tableau.com/app/profile/vaibhav.singh7939/viz/TitanicAnalysis_17498068169850/Dashboard1?publish=yes)
+![Dashboard](https://github.com/Vaibhav7409/Titanic-Survival-Analysis/blob/main/tsa.png)
 
 ---
 
@@ -74,11 +73,15 @@ This dashboard analyzes the Titanic dataset to uncover factors that influenced p
 
 ## 📥 How to Use
 
-1. **Clone or download** this repository.
+1. **Clone or download** this repository.  
+   `git clone https://github.com/Vaibhav7409/Titanic-Survival-Analysis.git`
 2. Open the `.twbx` file in Tableau Desktop or Tableau Public.
 3. Interact with the dashboard using filters and hover options.
 4. View KPIs, class breakdowns, demographic survival comparisons, and more.
 
 ---
 
+## 🙋‍♂️ Author
+
 **Created by:** Vaibhav Kumar Singh  
+---
